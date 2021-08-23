@@ -1,0 +1,23 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-turquois{
+    background-color: rgb(196, 226, 255)
+}
+
+.btn-rounded{
+    border-radius: 25px;
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.article-buttons {
+    border-radius: 25px;
+    background-color: whitesmoke;
+}
+
+.mt-75{
+    margin-top: 75px;
+}
